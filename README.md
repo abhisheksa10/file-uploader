@@ -21,7 +21,7 @@ Swagger UI with documentation of the available APIs will be avaialble at localho
 
 APIs and URLs
 -------------
-Use the following URL to upload csv file: http://localhost:8080/upload
+Once the application is running: Use the following URL to upload csv file: http://localhost:8080/upload
 
 H2 database console
 -------------------

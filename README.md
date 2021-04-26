@@ -25,7 +25,9 @@ Use the following URL to upload csv file: http://localhost:8080/upload
 
 H2 database console
 -------------------
-This application is built using the H2 in memory database. Once the CSV file is uploaded, open h2 console which is available at localhost:8080/h2-console
-Make sure JDBC URL is jdbc:h2:mem:testdb
+This application is built using the H2 in memory database. Once the CSV file is uploaded, open h2 console which is available at : localhost:8080/h2-console
+
+Make sure :
+JDBC URL is jdbc:h2:mem:testdb
 username: admin
 password: password
